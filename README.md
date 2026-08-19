@@ -1368,37 +1368,8 @@ Decision Makers
 
 ---
 
-# 44. Project Status
 
-The current project includes:
-
-* [x] Raw data preparation
-* [x] Data integration
-* [x] Data quality analysis
-* [x] Exploratory Data Analysis
-* [x] Lag features
-* [x] Rolling features
-* [x] Calendar features
-* [x] Business features
-* [x] Seasonal-naive baseline
-* [x] Machine learning forecasting model
-* [x] Time-based rolling-origin backtesting
-* [x] Model evaluation
-* [x] 8-week forecasting
-* [x] Inventory risk analysis
-* [x] Replenishment recommendations
-* [x] Streamlit dashboard
-* [x] FastAPI scoring service
-* [x] EDA documentation
-* [x] Executive readout
-* [x] README documentation
-* [ ] Automated model monitoring
-* [ ] Automated retraining
-* [ ] Advanced hyperparameter optimization
-
----
-
-# 45. Deployment
+# 44. Deployment
 
 The Streamlit dashboard can be deployed using a cloud hosting service such as Streamlit Community Cloud.
 
@@ -1419,39 +1390,26 @@ data/processed/inventory_risk.csv
 models/forecast_model.joblib
 ```
 
-The final live deployment URL can be added below:
 
-```text
-Live Dashboard:
-<ADD-YOUR-DEPLOYED-STREAMLIT-URL-HERE>
-```
 
----
-
-# 46. Project Links
+# 45. Project Links
 
 Add the final submission links after deployment:
 
 ```text
 Source Code:
-<ADD-YOUR-GITHUB-REPOSITORY-LINK>
+https://github.com/shwet2711/project-foresight
 
 Live Deployment:
-<ADD-YOUR-STREAMLIT-DEPLOYMENT-LINK>
-
-Demo Video:
-<ADD-YOUR-DEMO-VIDEO-LINK>
-
-Feedback Video:
-<ADD-YOUR-FEEDBACK-VIDEO-LINK>
+https://project-foresight-8jkqs7mneh7cppjmf6mk6v.streamlit.app/
 
 Project Report:
-<ADD-YOUR-PROJECT-REPORT-LINK>
+https://drive.google.com/file/d/1w_ZbAoYK2MIqaWx9zHC_19-0ExmrOrY3/view?usp=drive_link
 ```
 
 ---
 
-# 47. Conclusion
+# 46. Conclusion
 
 Project FORESIGHT provides an end-to-end demand forecasting and inventory intelligence workflow.
 
