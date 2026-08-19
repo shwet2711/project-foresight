@@ -1,0 +1,10 @@
+metric,value
+Seasonal-Naive WAPE,0.2234498056424995
+Model WAPE,0.9957186747778152
+WAPE Improvement %,-345.61178825587325
+Seasonal-Naive Bias %,-0.02583968305597176
+Model Bias %,-0.9942547519894488
+Seasonal-Naive MAE,7.275347222222222
+Model MAE,32.419804858768444
+Backtest Folds,4.0
+Forecast Horizon Weeks,8.0

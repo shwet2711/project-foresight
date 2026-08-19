@@ -1,0 +1,18 @@
+metric,value
+Total SKUs,200.0
+Total Inventory Units,28127.0
+Total 8-Week Forecast Demand,53688.3
+Potential 8-Week Inventory Coverage Gap,25944.88
+Excess Inventory Units,383.58
+Critical Risk SKUs,0.0
+High Risk SKUs,45.0
+Medium Risk SKUs,155.0
+Low Risk SKUs,0.0
+Stockout Very High SKUs,45.0
+Stockout High SKUs,61.0
+Stockout Medium SKUs,79.0
+Stockout Low SKUs,15.0
+Overstock Very High SKUs,1.0
+Overstock High SKUs,14.0
+Overstock Medium SKUs,79.0
+Overstock Low SKUs,106.0

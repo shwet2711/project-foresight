@@ -1,0 +1,7 @@
+metric,value
+Naive Baseline MAE,2.4543
+ML Model MAE,1.6822782099257017
+Naive Baseline RMSE,4.7533
+ML Model RMSE,2.9350436412787353
+MAE Improvement %,31.455885184137973
+RMSE Improvement %,38.25250581114731

@@ -1,0 +1,3 @@
+model,MAE,RMSE,MAE_improvement_vs_baseline_pct,RMSE_improvement_vs_baseline_pct
+Naive Baseline,2.4543,4.7533,0.0,0.0
+HistGradientBoostingRegressor,1.6822782099257017,2.9350436412787353,31.455885184137973,38.25250581114731

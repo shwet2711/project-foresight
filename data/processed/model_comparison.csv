@@ -1,0 +1,3 @@
+Model,MAE,RMSE
+Naive Baseline,2.4543,4.7533
+HistGradientBoostingRegressor,1.6823,2.935
